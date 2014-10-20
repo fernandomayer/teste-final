@@ -27,6 +27,9 @@ Mais algum texto
 
 Outro texto
 
+```{r }
+rnorm(10)
+```
 
 
 
